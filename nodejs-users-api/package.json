@@ -9,5 +9,8 @@
     "mongoose": "^4.4.5",
     "morgan": "^1.7.0",
     "request-json": "^0.5.5"
+  },
+  "scripts": {
+    "build": "node build.js"
   }
 }
